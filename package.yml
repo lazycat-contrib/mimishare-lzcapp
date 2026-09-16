@@ -1,0 +1,14 @@
+package: community.lazycat.app.mimishare
+version: 0.0.1
+name: mimishare
+description: "卡片式文件分享应用"
+min_os_version: "1.5.0"
+homepage: https://hub.docker.com/r/catwsq/mimishare
+author: catwsq
+locales:
+  zh:
+    name: "mimishare"
+    description: "卡片式文件分享应用"
+  en:
+    name: "mimishare"
+    description: "A card-based file sharing application"
